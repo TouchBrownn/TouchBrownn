@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/TouchBrownn">
-    <img src="https://media.giphy.com/media/qgM1A0oJ1y83V42bJ2/giphy.gif" width="300" height="150" alt="Hi, I'm Sergio" />
-  </a>
-</div>
-
 <h1 align="center">👋 Hi, I'm Sergio</h1>
 <p align="center">
   <strong>Software Developer | Higher Education Student</strong>  
